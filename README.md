@@ -1,10 +1,10 @@
 # Lichess Data in Snowflake
 Git integration with Snowflake and lichess data
 
-# Setup environment
+## Setup environment
 Use commands from notebook
 
-# Data Ingestion
+## Data Ingestion
 Load extracted data through snowsql
 
 ```bash
