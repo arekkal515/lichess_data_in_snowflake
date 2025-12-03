@@ -1,4 +1,5 @@
 # Lichess Data in Snowflake
+**WORK IN PROGRESS**
 Git integration with Snowflake and lichess data
 
 ## Setup environment
